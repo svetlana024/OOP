@@ -21,5 +21,4 @@ private:
 
 
 #endif //TRAPEZE_H
-#pragma once
-#pragma once
+
