@@ -36,6 +36,3 @@ public:
 
 #endif	/* FIGURE_H */
 #pragma once
-#pragma once
-#pragma once
-#pragma once
