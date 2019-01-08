@@ -22,4 +22,3 @@ private:
 
 #endif	/* RECTANGLE_H */
 #pragma once
-#pragma once
