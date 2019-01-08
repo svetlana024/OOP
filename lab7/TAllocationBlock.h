@@ -23,5 +23,4 @@ private:
 };
 
 #endif /* TALLOCATIONBLOCK_H */
-#pragma once
-#pragma once
+
