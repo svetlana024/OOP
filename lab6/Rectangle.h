@@ -1,4 +1,3 @@
-#pragma once
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 #include "Figure.h"
@@ -21,4 +20,4 @@ private:
 
 
 #endif //RECTANGLE_H
-#pragma once#pragma once
+#pragma once
